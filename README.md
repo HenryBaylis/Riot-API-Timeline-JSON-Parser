@@ -1,2 +1,2 @@
 # Riot-API-Timeline-JSON-Parser
-Data extraction from Riot API Timeline JSON using python parsing.
+Data extraction from Riot API Timeline JSON using annotated Python code It includes both individual and team level feature extraction, differential encoding, event stream aggregation and frame selection. Beforehand, I collect a dataset of timeline JSON files from the Riot API. This process is straightforward to automate up to the request limit of a Riot API key however I cannot show this as the code includes my key. The parsed data obtained using this project is used for my role lane prediction model.
